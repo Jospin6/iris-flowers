@@ -10,7 +10,8 @@
 
 A complete machine learning system for classifying iris flowers using a Multi-Layer Perceptron (MLP) neural network implemented with PyTorch. The project includes a trained model, a FastAPI backend, and a Streamlit frontend—all deployed and accessible online.
 
-![screenshot](./screenshot.png)
+![screenshot](./screenshot1.png)
+![screenshot](./screenshot2.png)
 
 ## ✨ Features
 
@@ -24,7 +25,7 @@ A complete machine learning system for classifying iris flowers using a Multi-La
 
 ## 🚀 Live Demos
 
-- **Web Interface**: [Streamlit App](https://askflow.streamlit.app/)
+- **Web Interface**: [Streamlit App](https://iris-flowers-project.streamlit.app/)
 - **Model Repository**: [Hugging Face Model](https://huggingface.co/jospin6/iris-classification)
 
 ## 🛠️ Tech Stack
