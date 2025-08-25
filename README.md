@@ -47,7 +47,7 @@ A complete machine learning system for classifying iris flowers using a Multi-La
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/iris-flowers.git
+   git clone https://github.com/Jospin6/iris-flowers.git
    cd iris-flowers
 
 2. **Install dependencies with Pipenv**
@@ -65,3 +65,7 @@ A complete machine learning system for classifying iris flowers using a Multi-La
     ```bash
     cd frontend
     streamlit run app.py
+
+
+### 👨‍💻 Author
+Built with ❤️ by Jospin Ndagano
